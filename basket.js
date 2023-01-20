@@ -72,3 +72,4 @@ function renderNewBasket(productId) {
     `;
   basketTotal.insertAdjacentHTML("beforebegin", productRow);
 }
+
